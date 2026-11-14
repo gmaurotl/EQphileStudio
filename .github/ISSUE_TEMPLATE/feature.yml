@@ -1,0 +1,9 @@
+name: Feature suggestion
+description: Suggest an improvement; contributions do not guarantee implementation.
+body:
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would you like to do, and why?
+    validations:
+      required: true

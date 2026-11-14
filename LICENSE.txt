@@ -1,0 +1,59 @@
+EQphile Studio — Free Binary Use Terms
+Version 0.17.8 — Updated 8 November 2026
+Copyright © 2026 Mauro Gonzalo Tarazona-Levano.
+Support: eqphile@maurotarazona.com
+
+1. Free use
+An authorized recipient may install and use this version of EQphile Studio
+on their compatible Macs for personal or professional purposes, free of
+charge. All features bundled with this version are available without a paid
+Pro tier, subscription, purchase, license key or paid device activation.
+No donation, payment account or developer account is required to use the app.
+Optional third-party sources and services may have their own accounts and
+terms; this app does not grant a streaming-service subscription or music rights.
+
+2. Distribution and source code
+Redistribution is permitted only for versions made publicly available by the
+developer, unless the developer gives separate permission. Share the complete,
+unmodified application bundle free of charge, with these terms and all
+third-party notices intact. Prefer linking to the official download.
+This permission concerns the distributed binary. The application source code
+remains private; free download does not grant an open-source license to it.
+No permission is granted to imply official authorship, endorsement or partnership
+through the app's name or branding. Rights not granted remain with their holders.
+Nothing here restricts rights or exceptions that applicable law makes non-waivable.
+
+3. Third-party components and content
+Separately licensed components retain their own terms and granted rights,
+including the BSD-3-Clause component described in Third-Party Notices.
+These terms do not replace those licenses. Music, artwork, service names and
+logos remain subject to their respective rights and service terms.
+
+4. Optional tips and contributions
+The app's Buy Me a Coffee links open external contribution services only
+when you choose them. Contributions support the developer's work voluntarily.
+They do not unlock features, activate a license, extend a trial, remove a
+usage limit, purchase priority support or create a promise of future features.
+Contributing or declining to contribute does not change the app's functionality.
+The app does not initiate payments, store payment credentials or start a
+subscription. You review and authorize any payment on the external service.
+Any optional recurring contribution must be chosen and managed on that service;
+it is not an EQphile Studio subscription or a condition of access.
+For payment mistakes or contribution questions, contact eqphile@maurotarazona.com.
+External payment-provider rules and applicable mandatory rights still apply.
+No claim is made that a tip is a charitable or tax-deductible donation.
+
+5. Availability and responsibility
+The app is provided as available. Hardware, operating-system changes and
+third-party services may affect compatibility. Back up important files and
+use suitable listening levels. Support, compatibility with every device and
+future updates are not guaranteed unless separately agreed.
+To the extent permitted by applicable law, no warranty of uninterrupted
+operation or fitness for a particular purpose is given. Mandatory consumer
+rights and liability that cannot lawfully be excluded remain unaffected.
+No exclusive court or choice of law removes protections available to the user.
+
+6. Version and contact
+These terms are bundled with the version to which they apply. They are not
+silently changed by a website fetch. Developer: Mauro Gonzalo Tarazona-Levano.
+Website: https://maurotarazona.com — Support/privacy: eqphile@maurotarazona.com.

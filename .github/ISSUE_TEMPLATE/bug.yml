@@ -1,0 +1,33 @@
+name: Bug report
+description: Report a reproducible problem without private data.
+body:
+  - type: markdown
+    attributes:
+      value: "Public report: remove credentials, personal paths and private media."
+  - type: input
+    id: version
+    attributes:
+      label: EQphile Studio and macOS versions
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps, expected result and actual result
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Source or feature affected
+      options:
+        - Local files
+        - Spotify
+        - Music / Apple Music
+        - Browser / YouTube
+        - Mac Audio
+        - EQphile Notch
+  - type: input
+    id: output
+    attributes:
+      label: Audio output device

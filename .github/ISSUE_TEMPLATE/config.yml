@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private support and security
+    url: mailto:eqphile@maurotarazona.com
+    about: Do not publish private information or vulnerabilities in issues.
