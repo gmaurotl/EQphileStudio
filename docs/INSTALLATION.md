@@ -43,8 +43,8 @@ First launch on another Mac or in a fresh user account has not been verified.
 - **Spotify:** open the desktop Spotify app, play a track and select Spotify in Studio.
 - **Music / Apple Music:** play a track in Music, then select that source in Studio.
 - **Browser / YouTube:** play media in a supported browser and select the browser source.
-- **Mac Audio:** enable it separately to process other apps' sound. Grant the
-  system-audio permission when macOS asks for this feature.
+- **Mac audio:** [enable system-wide equalization](USER-GUIDE.md#enable-system-wide-equalization)
+  to process other apps through the current Mac output.
 
 Spotify and Music controls require their respective macOS Automation permissions.
 Streaming-service access remains with those apps; Studio does not provide a
