@@ -6,7 +6,7 @@
 
 Turn on **Mac Audio** to apply your EQ and effects to Spotify, Music, your browser and other apps.
 
-**[Download 0.17.8 beta](https://github.com/gmaurotl/EQphileStudio/releases/tag/v0.17.8)** · [Installation](docs/INSTALLATION.md) · [Español](docs/README.es.md)
+**[Download 0.17.8 beta](https://github.com/gmaurotl/EQphileStudio/releases/tag/v0.17.8)** · [Installation](docs/INSTALLATION.md)
 
 ![Twenty graphic equalizer sliders and the tonal-response graph in dark mode](assets/screenshots/equalizer-en.jpg)
 
