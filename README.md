@@ -3,12 +3,13 @@
 </p>
 
 <h1 align="center">EQphile Studio</h1>
+<p align="center"><strong>Version 0.17.8 beta</strong></p>
 
 **A free system-wide audio equalizer for Apple Silicon Macs.**
 
 Turn on **Mac Audio** to apply your EQ and effects to Spotify, Music, your browser and other apps.
 
-**[Download 0.17.8 beta](https://github.com/gmaurotl/EQphileStudio/releases/tag/v0.17.8)** · [Installation](docs/INSTALLATION.md) · [User guide](docs/USER-GUIDE.md)
+**[Download 0.17.8 beta](https://github.com/gmaurotl/EQphileStudio/releases/tag/v0.17.8)** · [All releases](https://github.com/gmaurotl/EQphileStudio/releases) · [Installation](docs/INSTALLATION.md) · [User guide](docs/USER-GUIDE.md)
 
 ![Twenty graphic equalizer sliders and the tonal-response graph in dark mode](assets/screenshots/equalizer-en.jpg)
 
