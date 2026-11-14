@@ -1,6 +1,8 @@
-<img src="assets/icon.png" width="80" height="80" alt="EQphile Studio icon">
+<p align="center">
+  <img src="assets/icon.png" width="80" height="80" alt="EQphile Studio icon">
+</p>
 
-# EQphile Studio
+<h1 align="center">EQphile Studio</h1>
 
 **A free system-wide audio equalizer for Apple Silicon Macs.**
 
@@ -17,10 +19,6 @@ Each slider changes a frequency region. The **Tonal response** graph shows the c
 1. Start a track in Spotify or Music, or play a video in your browser.
 2. Click **Mac audio** in EQphile Studio and grant system-audio access. Hover over the button and look for **Filtering** while the track plays.
 3. Open **Audio → Equalizer → Bands**, turn on **Equalizer**, and choose **Use graphic EQ** if needed. Start with a small cut or boost and toggle **Equalizer** to compare.
-
-![In the Player, the pointer clicks Mac audio beneath the seek bar. Filtering appears under the button with the current device and sample rate.](assets/screenshots/mac-audio-filtering.gif)
-
-*Demo with system-audio permission already granted. In Player, look under the Mac audio button for **Filtering** while the external source plays. You can also hover over the button to check the status.*
 
 [Full setup, including permission and output checks](docs/USER-GUIDE.md#enable-system-wide-equalization)
 
