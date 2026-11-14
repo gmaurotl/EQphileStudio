@@ -10,11 +10,17 @@ Turn on **Mac Audio** to apply your EQ and effects to Spotify, Music, your brows
 
 ![Twenty graphic equalizer sliders and the tonal-response graph in dark mode](assets/screenshots/equalizer-en.jpg)
 
+Each slider changes a frequency region. The **Tonal response** graph shows the combined gain from the active EQ, tone controls and preamp. For bass that overwhelms the mix, try a small cut around 105 Hz. Use the parametric mode when you want to narrow the adjustment around a specific resonance.
+
 ## Equalize your Mac in three steps
 
 1. Start a track in Spotify or Music, or play a video in your browser.
 2. Click **Mac audio** in EQphile Studio and grant system-audio access. Hover over the button and look for **Filtering** while the track plays.
 3. Open **Audio → Equalizer → Bands**, turn on **Equalizer**, and choose **Use graphic EQ** if needed. Start with a small cut or boost and toggle **Equalizer** to compare.
+
+![In the Player, the pointer clicks Mac audio beneath the seek bar. Filtering appears under the button with the current device and sample rate.](assets/screenshots/mac-audio-filtering.gif)
+
+*Demo with system-audio permission already granted. In Player, look under the Mac audio button for **Filtering** while the external source plays. You can also hover over the button to check the status.*
 
 [Full setup, including permission and output checks](docs/USER-GUIDE.md#enable-system-wide-equalization)
 
@@ -45,13 +51,25 @@ The EQ and effects run locally for both file playback and captured system audio.
 
 ![EQphile Studio player with album artwork, a tinted background and playback controls](assets/screenshots/player-en.jpg)
 
+The Player shows the track, album, artwork and progress. Use a local FLAC or WAV you know well, seek to the same passage and compare one adjustment at a time at a similar listening level.
+
 ### Processing
 
 ![Processing activity display and independent Transients and Microdetail controls in light mode](assets/screenshots/processing-en.jpg)
 
+**The Clarity tab is open here.** The two dials set the intensity of Transients and Microdetail independently. The **Before** and **After** traces show what the five effects are doing to the spectrum as the signal changes. Use the **Effects** switch to compare the full effects chain while keeping your EQ and individual effect settings.
+
+- **Clarity.** **Transients** brings out the start of a note. Listen to the snap of a snare or the attack of a plucked string. **Microdetail** lifts quieter material already present in the mix, such as the tail of a note. It can also make background noise easier to hear.
+- **Smoothness.** **Unmasking** dynamically reduces dominant frequency regions. Try it when one sound makes neighbouring details harder to hear. **Dynamic smoothing** softens concentrations in the mids and highs. Listen for less bite on sharp vocals or cymbals while the rest of the track plays.
+- **Texture.** **Harmonic texture** uses gentle saturation to add colour. Try a small amount on a familiar voice or bass line and compare at a similar level.
+
+These effects work on the stereo mix. Start with one at low intensity and bring in the others as needed.
+
 ### EQphile Notch
 
 ![Expanded EQphile Notch with demo artwork, progress and playback controls](assets/screenshots/notch.png)
+
+The expanded Notch shows the track and its progress alongside playback controls, so you can replay a passage or change tracks without leaving the EQ view. Available controls depend on the playback source.
 
 Screenshots show demo track information and original cover artwork. The processing graph uses a test signal.
 
