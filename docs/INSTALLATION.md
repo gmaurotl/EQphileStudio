@@ -66,7 +66,7 @@ presets. Read each release's notes for any version-specific migration steps.
 ## Support and terms
 
 All included features are free and the application source stays private.
-Read the [binary terms](LICENSE.txt), [privacy information](PRIVACY.md) and
+Read the [binary terms](../LICENSE.txt), [privacy information](PRIVACY.md) and
 [third-party notices](NOTICE.md), also available offline in the app's Help menu.
 
 Support: **eqphile@maurotarazona.com**.

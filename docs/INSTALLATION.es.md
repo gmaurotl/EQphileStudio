@@ -66,7 +66,7 @@ preajustes. Lee las notas de cada versión por si incluye pasos de migración.
 ## Soporte y condiciones
 
 Todas las funciones incluidas son gratuitas y el código de la aplicación sigue
-siendo privado. Consulta las [condiciones del binario](LICENSE.txt), la
+siendo privado. Consulta las [condiciones del binario](../LICENSE.txt), la
 [privacidad](PRIVACY.md) y los [avisos de terceros](NOTICE.md), también disponibles
 sin conexión en el menú Ayuda de la app. Los textos legales completos están en inglés.
 
